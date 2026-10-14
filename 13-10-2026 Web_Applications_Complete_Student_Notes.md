@@ -1,6 +1,5 @@
 # Web Applications – Complete Student Notes
 
-**Level:** Beginner to Intermediate  
 **Topics:** Web Applications, Static vs Dynamic Websites, MVC Architecture, Spring Boot Examples
 
 ## 1. What is a Web Application?

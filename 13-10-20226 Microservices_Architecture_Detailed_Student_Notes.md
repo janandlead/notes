@@ -1,6 +1,5 @@
 # Microservices Architecture & Advantages — Detailed Student Notes
-
-**Audience:** Beginners learning Java, Spring Boot, and distributed systems  
+ 
 **Goal:** Understand the architecture shown in the reference diagram, what each component does, how a request flows, why teams adopt microservices, and the trade-offs.
 
 ---

@@ -1,11 +1,5 @@
 # Spring MVC Web Application — Detailed Student Notes
 
-**Audience:** Java and Spring Boot beginners  
-**Topic:** Model–View–Controller (MVC), Spring Framework modules, DispatcherServlet, request processing, manual configuration, advantages and challenges  
-**Learning goal:** Understand each box and arrow in the supplied architecture diagram and implement a small Spring MVC application.
-
----
-
 ## 1. What is Spring MVC?
 
 **Spring MVC** is the Servlet-based web framework in the Spring ecosystem. MVC stands for **Model–View–Controller**, a pattern that separates application data, request handling, and presentation.
